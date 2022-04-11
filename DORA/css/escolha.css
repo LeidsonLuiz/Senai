@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#bg{
+    position: relative;
+    width: 100%;
+    top: -10%;
+}
+
+header{
+    position: absolute;
+    top: 0%;
+    left: 40%;
+}
+
+#logo{
+    width: 280px;
+    height: 140px;
+}
+
+.container{
+    display: grid;
+    position: absolute;
+    left: 27%;
+    top: 20%;
+    text-align: center;
+}
+
+.container h1{
+    font-size: 32px;
+    font-weight: 700, bold;
+    color: #4D4D4D;
+}
+
+.container span{
+    font-size: 16px;
+    font-weight: 300;
+    font-style: italic;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.apresentacao{
+    margin-top: 5%;
+}
+
+#botao_ong{
+    position: absolute;
+    width: 314px;
+    height: 58px;
+    margin-top: 70%;
+    margin-left: -13%;
+    
+    background: #7FE68E;
+    border-radius: 86px;
+    border: none;
+}
+
+#botao_doador{
+    position: absolute;
+    width: 260px;
+    height: 58px;
+    margin-top: 70%;
+    margin-left: 75%;
+    
+    background: #7FE68E;
+    border-radius: 86px;
+    border: none;
+}
+
+.botao_dec{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+#ilustracao3{
+    position: absolute;
+    width: 400px;
+    height: 263px;
+    margin-left: -20%;
+    margin-top: 25%;
+}
+
+#ilustracao4{
+    position: absolute;
+    width: 302px;
+    height: 302px;
+    margin-left: 70%;
+    margin-top: 25%;
+}
